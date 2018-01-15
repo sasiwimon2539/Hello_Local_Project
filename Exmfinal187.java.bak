@@ -1,0 +1,13 @@
+class Exmfinal187 
+{
+	public static void main(String[] args) 
+	{
+		int r=0;
+		for (i=0;i<=10;i++)
+		{
+			 double r = Math.random()*10;
+			 int rand = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ")r;
+			 System.out.println(rand);
+		}
+	}
+}
